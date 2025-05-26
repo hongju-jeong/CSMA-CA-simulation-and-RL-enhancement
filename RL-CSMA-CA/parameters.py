@@ -11,7 +11,7 @@ from scipy.constants import c
 # Freq: 2.4 GHz, OFDM, 20 MHz bandwidth, 54 Mbit/s
 
 ### SIMULATION PARAMETERS
-SIM_TIME = 100*1e9
+SIM_TIME = 100*1e7
 
 PRINT_LOGS = True
 NUMBER_OF_NODES = 4
